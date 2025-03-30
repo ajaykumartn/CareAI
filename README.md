@@ -74,7 +74,7 @@ Predict potential health risks and monitor key metrics like glucose levels, bloo
 ## 🌐 **See It in Action**
 
 - **Website:** [CareAI](https://careai28.netlify.app)
-- **GitHub:** [Project Repository](https://lnkd.in/g_Y7FGYd)
+- **GitHub:** [Project Repository](https://github.com/ajaykumartn/CareAI)
 
 ---
 
